@@ -8,6 +8,8 @@ Hello
 
 This is my first blog;
 
+你好
+
 
 lalal
 
