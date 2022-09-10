@@ -2,3 +2,9 @@ baseURL = 'https://striverwheat.github.io/hello-blog/'
 languageCode = 'en-us'
 title = 'Galoong'
 theme = "hyde" 
+[Menus]
+  main = [
+      {Name = "Github", URL = "https://github.com/striverwheat/"},
+      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/striverwheat/"}
+  ]
+
